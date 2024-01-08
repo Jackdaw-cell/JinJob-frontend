@@ -1,0 +1,31 @@
+{
+  "name": "jinjob-front-admin",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@codemirror/lang-java": "^6.0.1",
+    "@kangc/v-md-editor": "^2.3.18",
+    "axios": "^1.4.0",
+    "codemirror-editor-vue3": "^2.4.1",
+    "echarts": "^5.4.2",
+    "element-plus": "^2.3.7",
+    "js-md5": "^0.7.3",
+    "monaco-editor": "^0.45.0",
+    "monaco-editor-webpack-plugin": "^7.1.0",
+    "sass": "^1.63.6",
+    "sass-loader": "^13.3.2",
+    "suneditor": "^2.45.1",
+    "vue": "^3.3.4",
+    "vue-cookies": "^1.8.3",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.9"
+  }
+}
